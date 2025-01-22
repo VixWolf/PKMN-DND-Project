@@ -1,0 +1,69 @@
+~~NORMAL~~
+Acupressure
+- User applies pressure to stress points, raising one random stat by 2 CHA die. (1-ATK/2-SPA/3-DEF/4-SPD/5-SPE/6-ACR). (CD 2)
+After You
+- Give the target an extra turn. (CD 2)
+Assist
+- Roll a 1d4. Use a move an ally pokemon knows. (CD 2)
+Attract
+- Target makes a CHA save (12+CHA). If the target fails, they are charmed. (CD 3)
+Barrage
+- User throws numerous orbs at a target. Roll up to 5 attacks. Each successful attack deals 1 damage. Afterwards, add ATK and deal total damage. (CD 0)
+Baton Pass
+- User switches with another pokemon, passing on all stat changes. (CD 0)
+Belly Drum
+- User loses half its HP, but gains 5 CHA die of ATK (CD 3)
+Bestow
+- Gives the target the user's held item (CD 1)
+Bide
+- For the next two turns, the user stores damage die dealt to it, then unleashes it all at once on turn 3 (CD 1)
+Bind
+- User binds the target, dealing 1 damage, followed by five turns of dealing damage equal to one hit dice of the target (CD 7)
+Block
+- Prevents the opponent from switching (CD 5)
+Blood Moon
+- The moon turns red as the user deals 1d12+2+SPA. (CD 3)
+Body Slam
+- User body slams the foe, dealing 1d8+ATK. DC 70 to paralyze (CD 2)
+Boomburst
+- User attacks everything with explosive sounds, dealing 1d12+SPA+2 to every creature around it. (CD 3)
+Camouflage
+- User turns into the type of any pokemon depending on location. (CD 2)
+Captivate
+- If the target is the opposite gender, the target lowers its SPA by two CHA die. (CD 2)
+Celebrate
+- The pokemon cheers for the target (CD 0)
+Chip Away
+- Deals 1d6+ATK and ignores stat changes. (CD 1)
+Comet Punch
+- User throws punches repeatedly. Roll up to 5 attacks. Each successful attack deals 1 damage. Afterwards, add ATK and deal total damage. (CD 0)
+Confide
+- Tell the target a secret, lowering their SPA by one CHA die (CD 1)
+Constrict
+- Constrict their target, dealing ATK. DC 90 to lower SPE by one CHA die. (CD 0)
+Conversion
+- Change the user's type to the same as one of their moves. (CD 2)
+Conversion 2
+- Fuck you ask Vix. (CD 2)
+Copycat
+- Copy the target's last move (CD 1)
+Court Change
+- Swap all effects (such as stat changes) on the field (CD 5)
+Covet
+- User deals 1d6+ATK and steals the target's item (CD 0)
+Crush Claw
+- -1 to hit, deals 1d8+ATK to target. DC 50 to lower DEF. (CD 1)
+ 
+Growl
+- Growl at the target, lowering its next ATK by the user's CHA die. (CD 1)
+Tackle
+- A full-body charge that deals 1d4+ATK. (CD 0)
+
+
+~~GRASS~~
+Ingrain
+- The user restores 1 HP die worth of health per turn, but cannot be switched out. (CD 5)
+Razor Leaf
+- Crits on a 19. Assault the enemy with a barrage of sharp leaves for 1d6+ATK. (CD 0)
+Vine Whip
+- The user whips the target using vines that deals 1d4+ATK. (CD 0)
